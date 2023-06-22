@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @devandsleep
-- 👀 I’m interested in backend development
-- 👅 My languages is Golang && Python
-- 🌱 I’m currently learning Golang
+- 👋 Hello, I’m @devandsleep
+- 👀 I’m interested in Web-development
+- 👅 My languages: ['JavaScript', 'Python']
+- 🌱 My stack: Vue3, Nest, PostgreSQL, MySQL
 - 📫 How to reach me devandsleep@gmail.com
 
 <!---
